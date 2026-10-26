@@ -70,7 +70,7 @@ As renewable generation grows, power systems face increasing uncertainty and var
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/citations?user=QRUUnwsAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9394--7740-A6CE39?style=flat-square)](https://orcid.org/0009-0001-9394-7740)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square)](https://www.researchgate.net/profile/Abdullah-Subih-2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square)](linkedin.com/in/abdullah-ashoor-subih-9a081062)
 
 ## 🛠️ Languages and Tools
 
